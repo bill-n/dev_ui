@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Dec 2019 17:05:53 at http://light.pinsupreme.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://light.pinsupreme.com/ -O1 "C:\Users\Dennis Effa Amponsah\Desktop\TPMS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:08:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): fast.fonts.net/t/1.css?apiType=css&projectid=487b73f1-c2d1-43db-8526-db577e4c822b
+17:09:03	Error: 	"Not Found" (404) at link light.pinsupreme.com/'img/avatar1.jpg' (from light.pinsupreme.com/apps_support_index.html)
+17:09:03	Error: 	"Not Found" (404) at link light.pinsupreme.com/'img/avatar3.jpg' (from light.pinsupreme.com/apps_support_index.html)
+17:09:03	Error: 	"Not Found" (404) at link light.pinsupreme.com/'img/avatar4.jpg' (from light.pinsupreme.com/apps_support_index.html)
+17:09:03	Error: 	"Not Found" (404) at link light.pinsupreme.com/'img/avatar5.jpg' (from light.pinsupreme.com/apps_support_index.html)
+17:09:03	Error: 	"Not Found" (404) at link light.pinsupreme.com/auth/login.html (from light.pinsupreme.com/auth_lock.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 30 seconds : 271 links scanned, 265 files written (16505724 bytes overall) [13462102 bytes received at 34518 bytes/sec], 3775783 bytes transferred using HTTP compression in 85 files, ratio 17%, 9.0 requests per connection
+(5 errors, 1 warnings, 0 messages)
